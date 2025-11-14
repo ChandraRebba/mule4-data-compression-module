@@ -148,3 +148,8 @@ Located in `FileCompressionOperations.java`
 - Directory compression creates a single archive file with all contents
 - XML prefix: `compression`
 - Compression ratio and size information is logged for all operations
+
+### Test Project Setup
+To test this module, use test-compression-mule-proj which basically just runs schedule to test the functionality of the data compression module.
+Ensure that the import for the data compression module exists in project POM and add required values for organization ID.
+The test file is present in src/main/resources
