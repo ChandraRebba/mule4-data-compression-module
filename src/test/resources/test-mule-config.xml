@@ -1,0 +1,14 @@
+<mule xmlns="http://www.mulesoft.org/schema/mule/core"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:zstandard="http://www.mulesoft.org/schema/mule/zstandard"
+      xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+          http://www.mulesoft.org/schema/mule/zstandard http://www.mulesoft.org/schema/mule/zstandard/current/mule-zstandard.xsd">
+
+    <zstandard:config name="Zstandard_Config" />
+
+    <flow name="compressAndDecompressFlow">
+        <zstandard:compress config-ref="Zstandard_Config" level="5"/>
+        <zstandard:decompress config-ref="Zstandard_Config"/>
+    </flow>
+
+</mule>

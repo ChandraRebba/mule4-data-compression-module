@@ -1,0 +1,100 @@
+This is a sample file for testing Zstandard compression.
+This file contains some repetitive text to ensure that the compression algorithm can work effectively.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+This is a sample file for testing Zstandard compression.
+This file contains some repetitive text to ensure that the compression algorithm can work effectively.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+This is a sample file for testing Zstandard compression.
+This file contains some repetitive text to ensure that the compression algorithm can work effectively.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+This is a sample file for testing Zstandard compression.
+This file contains some repetitive text to ensure that the compression algorithm can work effectively.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+This is a sample file for testing Zstandard compression.
+This file contains some repetitive text to ensure that the compression algorithm can work effectively.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+This is a sample file for testing Zstandard compression.
+This file contains some repetitive text to ensure that the compression algorithm can work effectively.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+This is a sample file for testing Zstandard compression.
+This file contains some repetitive text to ensure that the compression algorithm can work effectively.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+This is a sample file for testing Zstandard compression.
+This file contains some repetitive text to ensure that the compression algorithm can work effectively.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+This is a sample file for testing Zstandard compression.
+This file contains some repetitive text to ensure that the compression algorithm can work effectively.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+This is a sample file for testing Zstandard compression.
+This file contains some repetitive text to ensure that the compression algorithm can work effectively.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
+Repetitive text is good for compression.
